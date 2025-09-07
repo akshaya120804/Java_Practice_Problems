@@ -1,0 +1,1 @@
+package Inheritance.singleInheritance.RealScenarios.Area;
